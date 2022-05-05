@@ -2,7 +2,7 @@
     "name": "oauth2-proxy-express",
     "version": "1.0.0",
     "description": "Token endpoint for authorization code exchange with express.js",
-    "main": "server.js",
+    "main": "index.js",
     "scripts": {
         "start": "node index.js"
     },
