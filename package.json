@@ -1,0 +1,20 @@
+{
+    "name": "oauth2-proxy-express",
+    "version": "1.0.0",
+    "description": "Token endpoint for aithorization code exchange with express.js",
+    "main": "server.js",
+    "scripts": {
+        "start": "node index.js"
+    },
+    "keywords": [
+        "auth0"
+    ],
+    "author": "vikasjayaram",
+    "license": "LGPL",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "body-parser": "~1.18.2",
+        "dotenv": "^10.0.0",
+        "express": "~4.16.2"
+    }
+}
